@@ -2,6 +2,8 @@
 
 **Overview:** In this practical application, your goal is to compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. We will utilize a dataset related to marketing bank products over the telephone.
 
+Jupyter Notebook Link: https://github.com/marlonkolivas/practical_application_three/blob/main/practical_application%20_three.ipynb
+
 #### Summary
 ---
 This analysis evaluates the effectiveness of the bank’s telemarketing campaign using classification modeling. The goal is to determine which clients are most likely to subscribe to a term deposit, enabling the organization to optimize targeting efforts and campaign resources.
@@ -13,7 +15,7 @@ Four classification models were trained and compared based on:
 
 The model with the best combination of high test accuracy and reasonable training time is recommended for future use in campaign targeting.
 
-#### Objective of the study
+#### Objective of the Study
 ---
 The bank conducts direct telemarketing campaigns to promote term deposits. However, these campaigns require extensive time and labour, and conversion rates remain low due to the untargeted nature of the outreach.
 
